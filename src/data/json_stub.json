@@ -1,264 +1,415 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
-        "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
-            }
-        ]
+      "name": "Ilyas Abdul",
+      "label": "Front-End Developer",
+      "picture": "https://media-exp1.licdn.com/dms/image/C5103AQEAI_ioJmD3Gg/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=cILsZ5xH_Oj9g2tqLmqSUQivbHqR0ErR8_WuSHjeoZ4",
+      "email": "john@gmail.com",
+      "phone": "(91)05352792431",
+      "website": "http://ilyas.dev",
+      "summary": "Self taught front-end developer",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Istanbul, TR",
+        "countryCode": "TR",
+        "region": "Istanbul",
+        "name": "Istanbul,TR"
+      },
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "ilyascode1",
+          "url": "http://twitter.com/ilyascode1"
+        }
+      ]
     },
     "work": [
-        {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        }
+      {
+        "index": 0,
+        "id": "75022cde-ce86-443d-8e15-396156a387ae",
+        "name": "MasterBusiness School",
+        "position": "Front-End Developer ",
+        "place": { "name": "Kuala Lumpur" },
+        "startDate": "2019-06-30",
+        "endDate": "2019-10-01",
+        "summary": "Building UX design for the flow of the website \nCreate the main website using WordPress. \nManage and improve website performance. \nOptimize the website responsive.\nConvert the PSD files to actual code.\nStack and tools used: Trello, CSS, JavaScript, HTML , WordPress.",
+        "location": "Kuala Lumpur",
+        "stillEmployed": false
+      },
+      {
+        "index": 1,
+        "id": "de6d3e4e-b512-40cb-a339-63ee754eba59",
+        "name": "Engleezi",
+        "position": "Front-End Developer ",
+        "summary": "Building new user-facing features using Gatsby.\nBuilding reusable components for future use.\nTranslating designs and wireframes into high-quality code.\nOptimizing components for maximum performance across a vast array of web-capable devices and browsers.\nBuilding landing pages for the marketing team.\nStack and tools used: Gatsby, React js, Netlify, WordPress,Git,Bitbucket",
+        "place": { "name": "Kuala Lumpur" },
+        "startDate": "2018-10-30",
+        "endDate": "2019-08-01",
+        "location": "Kuala Lumpur"
+      },
+      {
+        "index": 2,
+        "id": "06d6e25a-4349-4a12-be0a-67c798478909",
+        "summary": "Create site to practice the WordPress\nBuild and designed multiple WordPress Websites\nClient support & site modifying/updating/migrating for WordPress\nManage website performance and responsiveness rate\nSolving problems and errors with websites and debug them.\nWorking under moderate supervision.",
+        "place": { "name": "Kuala Lumpur" },
+        "name": "GR Tech",
+        "position": "Web Developer ",
+        "startDate": "2016-08-30",
+        "endDate": "2017-02-01",
+        "location": "Kuala Lumpur"
+      }
     ],
     "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "website": "http://organization.com/",
+        "endDate": "2013-01-01",
+        "summary": "Description...",
+        "highlights": ["Awarded 'Volunteer of the Month'"]
+      }
     ],
     "education": [
-        {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
+      {
+        "institution": "IIUM",
+        "area": "Information Technology ",
+        "studyType": "Master Degree",
+        "startDate": "2011-01-01",
+        "endDate": "2019-01-01",
+        "gpa": "4.0",
+        "courses": ["DB1101 - Basic SQL"],
+        "id": "491b65ce-90fa-4b38-8a2e-0f881feeb3a1"
+      },
+      {
+        "institution": "Almadinah International University",
+        "area": "Management Information Technology ",
+        "studyType": "Bachelor Degree",
+        "startDate": "2011-01-01",
+        "endDate": "2016-01-01",
+        "gpa": "4.0",
+        "courses": ["DB1101 - Basic SQL"],
+        "id": "cc67e71c-f317-4c48-b8b7-29cebb95f839"
+      }
     ],
     "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
+      {
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+      }
     ],
     "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
+      {
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "website": "http://publication.com",
+        "summary": "Description..."
+      }
     ],
     "skills": [
-        {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
+      {
+        "name": "HTML5",
+        "index": 0,
+        "value": 91,
+        "id": "bd29179b-e649-4649-80f6-7d3956d6f732"
+      },
+      {
+        "name": "CSS3",
+        "index": 1,
+        "value": 84,
+        "id": "748b76a4-23a1-494a-933e-131c246f6130"
+      },
+      {
+        "name": "Javascript",
+        "index": 2,
+        "value": 83,
+        "id": "bfbeb566-5be5-448f-aba3-e4e1e730f2cf"
+      },
+      {
+        "name": "Bootstrap",
+        "index": 3,
+        "value": 50,
+        "id": "7d951e53-9305-4d8a-a14d-84fe97531c9b"
+      },
+      {
+        "name": "NodeJS",
+        "level": "Master",
+        "value": 23,
+        "keywords": ["HTML", "CSS", "Javascript"],
+        "index": 4,
+        "id": "c147e385-d034-401a-a096-6f204a5a25a1"
+      },
+      {
+        "name": "React",
+        "index": 5,
+        "value": 70,
+        "id": "31a51e9e-2545-4a9b-8a0a-af0d76c8426b"
+      },
+      {
+        "name": "Wordpress",
+        "index": 6,
+        "value": 89,
+        "id": "b9de5050-11ad-4352-b3b9-2d29bb282d80"
+      }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" }
+      {
+        "language": "English",
+        "value": 88,
+        "fluency": "Native speaker",
+        "id": "86812ea6-0938-4016-9edf-7f688df7dfbb",
+        "index": 0
+      },
+      {
+        "index": 1,
+        "id": "99dcb41c-24f2-4f6d-9efd-47d8a326ee87",
+        "value": 100,
+        "language": "Arabic"
+      },
+      {
+        "index": 2,
+        "id": "9146689a-0b42-4918-b660-5a923179ec77",
+        "language": "Turkish",
+        "value": 78
+      }
     ],
     "interests": [
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-        {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-        },
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
+      {
+        "name": "Burritos",
+        "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+      },
+      {
+        "name": "Dogs",
+        "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+      },
+      {
+        "name": "Tendresse",
+        "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+      },
+      {
+        "name": "Something",
+        "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+      },
+      {
+        "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+      }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
-        {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
-        }
+      {
+        "name": "Imas School",
+        "description": "Responsible to fix the HTML & PHP Problems. Responsible to add features and connect it to third-party APIs. Make the site responsive.",
+        "images": [{ "url": "https://source.unsplash.com/random/4000x2000" }],
+        "id": "33d7aecd-c29e-44df-a113-0583dc496428",
+        "date": "2017-01-29T22:18:52.666Z",
+        "link": "https://imas.edu.my/",
+        "endDate": "2017-01-30"
+      },
+      {
+        "name": "iiumgsm",
+        "date": "2016-08-29T22:16:43.277Z",
+        "description": "I was responsible of building the site using wordPress and prebuilt theme and convert It to the way that the Client request. While building this site I have used my skills in wordpress and javascript and html and also I was responsible for uploading the site to the cPanel and make it live for the users. ",
+        "link": "http://iiumgsm.com/",
+        "images": [{ "url": "https://source.unsplash.com/random/4000x2000" }],
+        "id": "359b8a1b-d5f6-4704-8940-4acc700db93e",
+        "endDate": "2016-08-30"
+      },
+      {
+        "name": "Engleezi LMS ",
+        "date": "2018-08-29T22:20:09.167Z",
+        "description": "I was the front end developer of this project I was responsible to create the blog site by using WordPress. \n\nI create landing pages for the marketing team using React & GatsbyJS. \n\nI created the main site and the teacher's site using React & Gatsbyjs \n\nConnecting the main site with the backend. ",
+        "link": "https://engleezi-tr.netlify.com/",
+        "images": [{ "url": "https://source.unsplash.com/random/4000x2000" }],
+        "id": "1cd328c4-35a0-4ea9-9d09-44459b4cd73b",
+        "endDate": "2018-08-30",
+        "index": 0
+      },
+      {
+        "name": "Yelp clone Site",
+        "description": "This website built using React and I did this website to practice my skills in react and javascript.",
+        "date": "2020-03-29T22:23:56.844Z",
+        "link": "https://yelp-clone-site.netlify.com/",
+        "id": "492cbf5d-3f6a-405e-90a7-2b3f2482a06f",
+        "endDate": "2020-03-30"
+      },
+      {
+        "name": "MasterBusiness LMS",
+        "description": "This website was part of my working at Master business company I was responsible of building the backend using an LMS plugin and it's connected to another platform that the company is using now.  \n",
+        "link": "https://school.masterbusiness.net/",
+        "date": "2019-10-29T22:24:47.434Z",
+        "id": "64e70af9-a7b7-4846-8778-29c7bb192cfc",
+        "endDate": "2019-10-30"
+      }
     ],
     "specific": {
-        "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+      "basics": {
+        "visaSponsorship": true,
+        "personalDescription": "I am a front-end developer with industry experience building websites and web applications. I am very passionate about JavaScript and I love to learn new things every day and keep updated with the new technologies. "
+      },
+      "dreamJob": {
+        "locations": [
+          {
+            "name": "Istanbul, Turkey",
+            "id": "8bf80f46-bc6c-4003-88d5-e25b85efc1c2"
+          }
+       
+        ],
+        "remoteFrequency": "regularly",
+        "perks": {
+          "salary": true,
+          "challenge": true,
+          "mood": true,
+          "training": true,
+          "perks": true,
+          "work_hours": true
         },
-        "dreamJob": {
-            "locations": [
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" }
-            ],
-            "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
-        "work": {
-            "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
-        },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "salary": "4000"
+      },
+      "currentJob": {
+        "issues": {
+          "boring_management": true,
+          "boring_team": true,
+          "no_tech": true,
+          "no_challenge": true,
+          "salary": true
+        }
+      },
+      "education": { "studiesLevel": 6 },
+      "work": {
+        "contractTypes": ["permanent", "freelance"],
+        "codingYears": 5,
+        "codingReason": "To build a applications that help my community",
+        "searchState": "activelySearching",
+        "experienceYears": 4
+      },
+      "sound": {
+        "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWTwnEm1IYyoj"
+      },
+      "interestedBy": "VueJS, ThreeJS, Python"
     },
     "customization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
-        "theme": {
-            "palette": {
-                "primary": {
-                    "50": "#ffecf0",
-                    "100": "#ffd9e0",
-                    "200": "#ffb4c1",
-                    "300": "#fe8ea3",
-                    "400": "#fe6984",
-                    "500": "#fe4365",
-                    "600": "#cb3651",
-                    "700": "#98283d",
-                    "800": "#661b28",
-                    "900": "#330d14",
-                    "contrastDefaultColor": "light"
-                },
-                "secondary": {
-                    "50": "#fff5f5",
-                    "100": "#feebeb",
-                    "200": "#fed8d7",
-                    "300": "#fdc4c2",
-                    "400": "#fdb1ae",
-                    "500": "#fc9d9a",
-                    "600": "#ca7e7b",
-                    "700": "#975e5c",
-                    "800": "#653f3e",
-                    "900": "#321f1f",
-                    "contrastDefaultColor": "light"
-                },
-                "tertiary": {
-                    "50": "#fefaf7",
-                    "100": "#fef5ef",
-                    "200": "#fdebde",
-                    "300": "#fbe1ce",
-                    "400": "#fad7bd",
-                    "500": "#f9cdad",
-                    "600": "#c7a48a",
-                    "700": "#957b68",
-                    "800": "#645245",
-                    "900": "#322923",
-                    "contrastDefaultColor": "light"
-                }
-            }
-        },
-        "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
-        ]
+      "imageHeader": {
+        "url": "https://source.unsplash.com/LJ9KY8pIH3E",
+        "alt": "Default Banner"
+      },
+      "theme": {
+        "palette": {
+          "primary": {
+            "50": "#ffecf0",
+            "100": "#ffd9e0",
+            "200": "#ffb4c1",
+            "300": "#fe8ea3",
+            "400": "#fe6984",
+            "500": "#fe4365",
+            "600": "#cb3651",
+            "700": "#98283d",
+            "800": "#661b28",
+            "900": "#330d14",
+            "contrastDefaultColor": "light"
+          },
+          "secondary": {
+            "50": "#fff5f5",
+            "100": "#feebeb",
+            "200": "#fed8d7",
+            "300": "#fdc4c2",
+            "400": "#fdb1ae",
+            "500": "#fc9d9a",
+            "600": "#ca7e7b",
+            "700": "#975e5c",
+            "800": "#653f3e",
+            "900": "#321f1f",
+            "contrastDefaultColor": "light"
+          },
+          "tertiary": {
+            "50": "#fefaf7",
+            "100": "#fef5ef",
+            "200": "#fdebde",
+            "300": "#fbe1ce",
+            "400": "#fad7bd",
+            "500": "#f9cdad",
+            "600": "#c7a48a",
+            "700": "#957b68",
+            "800": "#645245",
+            "900": "#322923",
+            "contrastDefaultColor": "light"
+          }
+        }
+      },
+      "cardsOrder": [
+        { "type": "basics", "variant": 4 },
+        { "type": "projects", "variant": 4 },
+        { "type": "skills", "variant": 0 },
+        { "type": "dreamjob", "variant": 4 },
+        { "type": "experiences", "variant": 4 },
+        { "type": "studies", "variant": 4 },
+        { "type": "gifs", "variant": 0 },
+        { "type": "interestedBy", "variant": 3 },
+        { "type": "language", "variant": 4 },
+        { "type": "soundtrack", "variant": 4 }
+      ]
+    },
+    "resumeCustomization": {
+      "imageHeader": {
+        "url": "https://source.unsplash.com/LJ9KY8pIH3E",
+        "alt": "Default Banner"
+      },
+      "theme": {
+        "palette": {
+          "primary": {
+            "50": "#ececed",
+            "100": "#d9d8db",
+            "200": "#b3b2b7",
+            "300": "#8d8b92",
+            "400": "#67656e",
+            "500": "#413e4a",
+            "600": "#34323b",
+            "700": "#27252c",
+            "800": "#1a191e",
+            "900": "#0d0c0f",
+            "contrastDefaultColor": "light"
+          },
+          "secondary": {
+            "50": "#f1eff1",
+            "100": "#e3e0e2",
+            "200": "#c7c0c5",
+            "300": "#aba1a8",
+            "400": "#8f818b",
+            "500": "#73626e",
+            "600": "#5c4e58",
+            "700": "#453b42",
+            "800": "#2e272c",
+            "900": "#171416",
+            "contrastDefaultColor": "light"
+          },
+          "tertiary": {
+            "50": "#f7f2f3",
+            "100": "#f0e6e6",
+            "200": "#e1cdce",
+            "300": "#d1b3b5",
+            "400": "#c29a9d",
+            "500": "#b38184",
+            "600": "#8f676a",
+            "700": "#6b4d4f",
+            "800": "#483435",
+            "900": "#241a1a",
+            "contrastDefaultColor": "light"
+          }
+        }
+      },
+      "cardsOrder": [
+        { "type": "basics", "variant": 4 },
+        { "type": "skills", "variant": 0 },
+        { "type": "dreamjob", "variant": 4 },
+        { "type": "projects", "variant": 4 },
+        { "type": "experiences", "variant": 4 },
+        { "type": "studies", "variant": 4 },
+        { "type": "gifs", "variant": 0 },
+        { "type": "interestedBy", "variant": 3 },
+        { "type": "language", "variant": 4 },
+        { "type": "soundtrack", "variant": 4 }
+      ]
     }
-}
+  }
+  
