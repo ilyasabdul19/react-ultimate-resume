@@ -175,27 +175,7 @@
         "value": 78
       }
     ],
-    "interests": [
-      {
-        "name": "Burritos",
-        "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-      },
-      {
-        "name": "Dogs",
-        "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-      },
-      {
-        "name": "Tendresse",
-        "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-      },
-      {
-        "name": "Something",
-        "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-      },
-      {
-        "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-      }
-    ],
+    
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
       {
