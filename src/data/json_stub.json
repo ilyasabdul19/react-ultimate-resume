@@ -179,14 +179,16 @@
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
       {
-        "name": "Imas School",
-        "description": "Responsible to fix the HTML & PHP Problems. Responsible to add features and connect it to third-party APIs. Make the site responsive.",
+        "name": "Engleezi LMS ",
+        "date": "2018-08-29T22:20:09.167Z",
+        "description": "I was the front end developer of this project I was responsible to create the blog site by using WordPress. \n\nI create landing pages for the marketing team using React & GatsbyJS. \n\nI created the main site and the teacher's site using React & Gatsbyjs \n\nConnecting the main site with the backend. ",
+        "link": "https://engleezi-tr.netlify.com/",
         "images": [{ "url": "https://source.unsplash.com/random/4000x2000" }],
-        "id": "33d7aecd-c29e-44df-a113-0583dc496428",
-        "date": "2017-01-29T22:18:52.666Z",
-        "link": "https://imas.edu.my/",
-        "endDate": "2017-01-30"
-      },
+        "id": "1cd328c4-35a0-4ea9-9d09-44459b4cd73b",
+        "endDate": "2018-08-30",
+        "index": 0
+      }
+   ,
       {
         "name": "iiumgsm",
         "date": "2016-08-29T22:16:43.277Z",
@@ -197,15 +199,15 @@
         "endDate": "2016-08-30"
       },
       {
-        "name": "Engleezi LMS ",
-        "date": "2018-08-29T22:20:09.167Z",
-        "description": "I was the front end developer of this project I was responsible to create the blog site by using WordPress. \n\nI create landing pages for the marketing team using React & GatsbyJS. \n\nI created the main site and the teacher's site using React & Gatsbyjs \n\nConnecting the main site with the backend. ",
-        "link": "https://engleezi-tr.netlify.com/",
+        "name": "Imas School",
+        "description": "Responsible to fix the HTML & PHP Problems. Responsible to add features and connect it to third-party APIs. Make the site responsive.",
         "images": [{ "url": "https://source.unsplash.com/random/4000x2000" }],
-        "id": "1cd328c4-35a0-4ea9-9d09-44459b4cd73b",
-        "endDate": "2018-08-30",
-        "index": 0
-      },
+        "id": "33d7aecd-c29e-44df-a113-0583dc496428",
+        "date": "2017-01-29T22:18:52.666Z",
+        "link": "https://imas.edu.my/",
+        "endDate": "2017-01-30"
+      }
+      ,
       {
         "name": "Yelp clone Site",
         "description": "This website built using React and I did this website to practice my skills in react and javascript.",
@@ -249,11 +251,11 @@
       },
       "currentJob": {
         "issues": {
-          "boring_management": true,
-          "boring_team": true,
-          "no_tech": true,
-          "no_challenge": true,
-          "salary": true
+          "boring_management": false,
+          "boring_team": false,
+          "no_tech": false,
+          "no_challenge": false,
+          "salary": false
         }
       },
       "education": { "studiesLevel": 6 },
